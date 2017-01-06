@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/my_prestashop.iml" filepath="$PROJECT_DIR$/.idea/my_prestashop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../prestashop_en/.idea/prestashop_en.iml" filepath="$PROJECT_DIR$/../prestashop_en/.idea/prestashop_en.iml" />
     </modules>
   </component>
 </project>
